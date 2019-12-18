@@ -7,7 +7,7 @@ id,order_id,payment_method,amount
 6,6,credit_card,600
 7,7,credit_card,1600
 8,8,credit_card,2300
-9,9,gifts_card,2300
+9,9,gift_card,2300
 10,9,bank_transfer,0
 11,10,bank_transfer,2600
 12,11,credit_card,2700
